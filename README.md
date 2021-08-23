@@ -8,3 +8,7 @@ The goal for this test is to eveluate basic skill levels revolving around the ab
 - Your project should handle API errors gracefully
 - Your project should log any errors and any information that might be useful to debug said errors.
 - Provide a sample HTTP Request directly towards your API
+
+## Bonus
+- Implement an authentication mechanism into your API
+- Use an SQL database to store an audit of all Advice Slips requested. Add the ability to list all audit records in your HTML page
