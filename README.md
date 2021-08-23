@@ -2,6 +2,7 @@
 The goal for this test is to eveluate basic skill levels revolving around the ability to integrate a third party API, design & create a custom API, while displaying an understanding of HTTP Requests.
 
 ## Requirements
+- Use Git to keep track of your project
 - Use the [Advice Slip API](https://api.adviceslip.com/) to display a random advice slip on a simple HTML page
 - Use the [Advice Slip API](https://api.adviceslip.com/) to add the ability to search for advice slips and display them in a list
 - The [Advice Slip API](https://api.adviceslip.com/) should not be called from the HTML page. Integrate the API into your own custom API/MVC project. Your HTML page should call your own API which in turn calls the [Advice Slip API](https://api.adviceslip.com/)
