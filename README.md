@@ -14,3 +14,4 @@ The goal for this test is to eveluate basic skill levels revolving around the ab
 - Implement an authentication mechanism into your API
 - Add API documentation to enable third-parties to integrate your API
 - Use an SQL database to store an audit of all Advice Slips requested. Add the ability to list all audit records in your HTML page
+- Add automated tests to your project
